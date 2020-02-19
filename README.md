@@ -4,10 +4,18 @@
 步骤如下：
 
 1. 下载明道云社区版 [安装引导程序](https://github.com/mingdaocom/community/releases)
-2. 将压缩包上传到部署服务器上（暂只支持 `Linux` 操作系统，后续会支持 `Windows`、`Mac`）
-3. 解压 `tar -zxvf  mingdaoyun_community_linux.tar.gz`
-4. 运行引导程序 `./install`
-5. 运行成功后在浏览器中通过 `http://{外网IP}:3009` 访问可视化引导程序，按引导步骤操作即可
+
+2. 将压缩包上传到部署服务器上（暂只支持 `Linux` 操作系统，后续会支持 `Windows`、`Mac`）；
+
+3. 解压 `tar -zxvf  mingdaoyun_community_linux.tar.gz` ；
+
+4. 运行引导程序 `./install` ；
+
+5. 运行成功后在浏览器中通过 `http://{外网IP}:3009` 访问可视化引导程序，整个过程需要在线拉取明道云社区版镜像，持续时间可能较长；
+
+6. 镜像拉取并启动成功后，在线申请密钥后绑定即可使用；
+
+   
 
 
 效果图：
