@@ -4,7 +4,7 @@
 
 步骤如下：
 
-1. 下载明道云社区版 [安装引导程序]()
+1. 下载明道云社区版 [安装引导程序](https://github.com/mingdaocom/community/releases)
 2. 将压缩包上传到部署服务器上（暂只支持 `Linux` 操作系统，后续会支持 `Windows`、`Mac`）
 3. 解压 `tar -zxvf  mingdaoyun_community_linux.tar.gz`
 4. 运行引导程序 `./install`
@@ -12,9 +12,4 @@
 
 
 
-
-
-
-
-
-
+![mingdaoyun](https://user-images.githubusercontent.com/7261408/74831321-fe2b6500-534f-11ea-824d-b2936d82eccb.png)
