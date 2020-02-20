@@ -1,5 +1,6 @@
 ### 明道云私有部署社区版
 
+![star](https://img.shields.io/github/stars/mingdaocom/community)
 
 ![logo](https://user-images.githubusercontent.com/7261408/74936915-048c1080-5426-11ea-95b8-26568f124605.png)
 
