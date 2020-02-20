@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/7261408/74936915-048c1080-5426-11ea-95b8-26568f124605.png)
+<center>![logo](https://user-images.githubusercontent.com/7261408/74936915-048c1080-5426-11ea-95b8-26568f124605.png)</center>
 
 
 [明道云](https://www.mingdao.com) 是一个企业软件的快速设计和开发工具。但不需要任何代码编写，普通业务人员就能掌握使用。通过灵活的功能组件，让企业可以搭建个性化的 CRM、ERP、OA、项目管理、进销存等系统，你可以用它管理生产、销售、采购、人事等所有企业活动。明道云私有部署社区版基于镜像模式开发，旨在提供给用户一个能快速安装与体验的 APaaS 平台。
