@@ -1,7 +1,5 @@
 # 明道云私有部署社区版
 
-<a href="https://www.mingdao.com" target="_blank">![ming](https://img.shields.io/badge/I%20%E2%9D%A4%20MY%20TEAM-%E6%98%8E-blue)</a> 
-
 [![ming](https://img.shields.io/badge/I%20%E2%9D%A4%20MY%20TEAM-%E6%98%8E-blue)](https://www.mingdao.com) [![release](https://img.shields.io/github/v/release/mingdaocom/community.svg)](https://github.com/mingdaocom/community/releases) [![issues](https://img.shields.io/github/issues/mingdaocom/community)](https://github.com/mingdaocom/community/issues) [![star](https://img.shields.io/github/stars/mingdaocom/community)](https://github.com/mingdaocom/community/stargazers)
 
 ![logo](https://user-images.githubusercontent.com/7261408/74936915-048c1080-5426-11ea-95b8-26568f124605.png)
