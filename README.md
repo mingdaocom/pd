@@ -8,5 +8,4 @@
 
 # 快速体验
 
-[快速安装](https://github.com/mingdaocom/community/wiki/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
-
+[单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
