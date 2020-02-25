@@ -1,4 +1,4 @@
-# 明道云私有部署
+# 明道云私有部署版
 
 [![ming](https://img.shields.io/badge/I%20%E2%9D%A4%20MY%20TEAM-%E6%98%8E-blue)](https://www.mingdao.com) [![release](https://img.shields.io/github/v/release/mingdaocom/private-deployment.svg)](https://github.com/mingdaocom/private-deployment/releases) [![issues](https://img.shields.io/github/issues/mingdaocom/private-deployment)](https://github.com/mingdaocom/private-deployment/issues) [![star](https://img.shields.io/github/stars/mingdaocom/private-deployment)](https://github.com/mingdaocom/private-deployment/stargazers)
 
