@@ -12,4 +12,4 @@
 
 # 产品截图
 
-![](https://user-images.githubusercontent.com/7261408/75409877-e443e080-5954-11ea-9ab5-b1dc7afc7d1b.png)
+![](https://user-images.githubusercontent.com/7261408/75409996-5caaa180-5955-11ea-8914-125d0118ac2d.png)
