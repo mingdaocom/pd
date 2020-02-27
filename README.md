@@ -9,3 +9,7 @@
 # 快速体验
 
 [单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
+
+# 产品截图
+
+![](https://user-images.githubusercontent.com/7261408/75409877-e443e080-5954-11ea-9ab5-b1dc7afc7d1b.png)
