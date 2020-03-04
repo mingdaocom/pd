@@ -10,6 +10,20 @@
 
 [单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
 
-# 产品截图
+# 产品简介
 
-![](https://user-images.githubusercontent.com/7261408/75410169-ef4b4080-5955-11ea-8502-7dfce6fc8f66.png)
+![0_08](https://user-images.githubusercontent.com/7261408/75869961-4a44d200-5e45-11ea-8360-12d5501063f7.jpg)
+![0_09](https://user-images.githubusercontent.com/7261408/75869968-4b75ff00-5e45-11ea-98f7-e9324f02540a.jpg)
+![0_10](https://user-images.githubusercontent.com/7261408/75869978-4e70ef80-5e45-11ea-9e4d-98fd94254eb8.jpg)
+![0_12](https://user-images.githubusercontent.com/7261408/75869992-529d0d00-5e45-11ea-9934-ccef827b212a.jpg)
+![0_13](https://user-images.githubusercontent.com/7261408/75869997-5466d080-5e45-11ea-9bed-a08a75404551.jpg)
+![0_14](https://user-images.githubusercontent.com/7261408/75870001-5597fd80-5e45-11ea-8d94-5e07f5443528.jpg)
+![0_15](https://user-images.githubusercontent.com/7261408/75870006-5761c100-5e45-11ea-8646-fcf2f75465ed.jpg)
+![0_16](https://user-images.githubusercontent.com/7261408/75870013-592b8480-5e45-11ea-8a68-2ed87e5ddcc6.jpg)
+![0_17](https://user-images.githubusercontent.com/7261408/75870019-5af54800-5e45-11ea-9971-9e7f03613d54.jpg)
+![0_18](https://user-images.githubusercontent.com/7261408/75870024-5d57a200-5e45-11ea-8a5d-67b266c21b6e.jpg)
+![0_19](https://user-images.githubusercontent.com/7261408/75870026-5f216580-5e45-11ea-8056-2d9b761b3e39.jpg)
+![0_24](https://user-images.githubusercontent.com/7261408/75870053-6779a080-5e45-11ea-9a88-b14ad8af70e3.jpg)
+
+
+
