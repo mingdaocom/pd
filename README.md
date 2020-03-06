@@ -12,7 +12,7 @@
 
 # 产品简介
 
-更多介绍请查看明道云 [使用帮助](http://support.mingdao.com/)
+更多使用介绍请查看明道云 [使用帮助](http://support.mingdao.com/)
 
 ![0_08](https://user-images.githubusercontent.com/7261408/75869961-4a44d200-5e45-11ea-8360-12d5501063f7.jpg)
 ![0_09](https://user-images.githubusercontent.com/7261408/75869968-4b75ff00-5e45-11ea-98f7-e9324f02540a.jpg)
