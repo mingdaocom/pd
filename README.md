@@ -10,6 +10,10 @@
 
 [单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
 
+关注明道云技术团队公众号，获取最新的私有部署版动态
+
+![明道云技术团队](https://user-images.githubusercontent.com/7261408/77173540-9a38bf80-6afa-11ea-85f6-36261e12c782.png)
+
 # 产品简介
 
 更多详细使用介绍请查看明道云 [帮助中心](http://support.mingdao.com/)
