@@ -12,7 +12,7 @@
 
 关注明道云技术团队公众号，获取最新的私有部署版动态
 
-![明道云技术团队](https://user-images.githubusercontent.com/7261408/77173540-9a38bf80-6afa-11ea-85f6-36261e12c782.png)
+![明道云技术团队](https://user-images.githubusercontent.com/7261408/83471261-d30bf200-a4b6-11ea-879f-a4ea4fc9d422.png)
 
 # 产品简介
 
