@@ -8,7 +8,9 @@
 
 # 快速体验
 
-[单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
+- [单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
+
+- [集群模式搭建指南](https://github.com/mingdaocom/private-deployment/wiki/%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97)
 
 关注明道云技术团队公众号，获取最新的私有部署版动态
 
@@ -30,6 +32,3 @@
 ![0_18](https://user-images.githubusercontent.com/7261408/75870024-5d57a200-5e45-11ea-8a5d-67b266c21b6e.jpg)
 ![0_19](https://user-images.githubusercontent.com/7261408/75870026-5f216580-5e45-11ea-8056-2d9b761b3e39.jpg)
 ![0_24](https://user-images.githubusercontent.com/7261408/75870053-6779a080-5e45-11ea-9a88-b14ad8af70e3.jpg)
-
-
-
