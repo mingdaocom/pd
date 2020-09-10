@@ -12,7 +12,7 @@
 
 - [集群模式搭建指南](https://github.com/mingdaocom/private-deployment/wiki/%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97)
 
-- [Kubernetes 部署指南（helm）](https://github.com/mingdaocom/private-deployment/wiki/Kubernetes)
+- [Kubernetes 部署指南](https://github.com/mingdaocom/private-deployment/wiki/Kubernetes)
 
 关注明道云技术团队公众号，获取最新的私有部署版动态
 
@@ -33,4 +33,4 @@
 ![](https://user-images.githubusercontent.com/7261408/75870019-5af54800-5e45-11ea-9971-9e7f03613d54.jpg)
 ![](https://user-images.githubusercontent.com/7261408/75870024-5d57a200-5e45-11ea-8a5d-67b266c21b6e.jpg)
 ![](https://user-images.githubusercontent.com/7261408/75870026-5f216580-5e45-11ea-8056-2d9b761b3e39.jpg)
-![](https://user-images.githubusercontent.com/7261408/90738523-fbaac780-e300-
+![](https://user-images.githubusercontent.com/7261408/90738523-fbaac780-e300-11ea-9982-53a6f24c87ae.jpeg)
