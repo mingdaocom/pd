@@ -9,7 +9,7 @@
 <br>
 ## 快速体验
 
-<img src="https://user-images.githubusercontent.com/7261408/100499018-3d20fd80-31a1-11eb-8428-31a0dc0cf953.jpg" alt="明道云技术团队" height="220px" align="right" />
+<img src="https://user-images.githubusercontent.com/7261408/100499018-3d20fd80-31a1-11eb-8428-31a0dc0cf953.jpg" alt="明道云技术团队" height="200px" align="right" />
 
 - [单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
 
