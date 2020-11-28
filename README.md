@@ -8,15 +8,13 @@
 
 ## 快速体验
 
+<img src="https://user-images.githubusercontent.com/7261408/100498920-a2282380-31a0-11eb-8348-ab2ecda663cf.jpg" alt="明道云技术团队" height="200px" align="right" />
+
 - [单机模式快速安装](https://github.com/mingdaocom/private-deployment/wiki/%E5%8D%95%E6%9C%BA%E6%A8%A1%E5%BC%8F%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85)
 
 - [集群模式部署指南](https://github.com/mingdaocom/private-deployment/wiki/%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97)
 
 - [Kubernetes 部署指南](https://github.com/mingdaocom/private-deployment/wiki/Kubernetes)
-
-关注明道云技术团队公众号，获取最新的私有部署版动态
-
-![明道云技术团队](https://user-images.githubusercontent.com/7261408/83471261-d30bf200-a4b6-11ea-879f-a4ea4fc9d422.png)
 
 ## 产品简介
 
