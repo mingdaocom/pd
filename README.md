@@ -14,8 +14,6 @@
 
 - [Kubernetes 部署指南](https://github.com/mingdaocom/private-deployment/wiki/Kubernetes)
 
-<img src="https://user-images.githubusercontent.com/7261408/100499018-3d20fd80-31a1-11eb-8428-31a0dc0cf953.jpg" alt="明道云技术团队" height="200px" />
-
 ## 产品简介
 
 更多详细使用介绍请查看明道云 [帮助中心](http://support.mingdao.com/)
@@ -31,4 +29,3 @@
 ![](https://user-images.githubusercontent.com/7261408/75870019-5af54800-5e45-11ea-9971-9e7f03613d54.jpg)
 ![](https://user-images.githubusercontent.com/7261408/75870024-5d57a200-5e45-11ea-8a5d-67b266c21b6e.jpg)
 ![](https://user-images.githubusercontent.com/7261408/75870026-5f216580-5e45-11ea-8056-2d9b761b3e39.jpg)
-![](https://user-images.githubusercontent.com/7261408/90738523-fbaac780-e300-11ea-9982-53a6f24c87ae.jpeg)
