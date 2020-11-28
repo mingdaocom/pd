@@ -19,11 +19,19 @@
 更多详细使用介绍请查看明道云 [帮助中心](http://support.mingdao.com/)
 
 ![](https://user-images.githubusercontent.com/7261408/100502057-ca1a8580-31a6-11eb-97b6-7edbb9e495cf.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502096-cd157600-31a6-11eb-870f-b429a002e658.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502108-cdae0c80-31a6-11eb-88ca-534b1d66c147.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502125-cedf3980-31a6-11eb-9cb0-7be730b54873.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502134-cf77d000-31a6-11eb-8a2a-2506942a8048.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502154-d0a8fd00-31a6-11eb-9aa9-6260c39371ea.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502182-d272c080-31a6-11eb-828c-c92b2645b6f7.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502199-d30b5700-31a6-11eb-94fc-e5fb6dd5ac2f.png)
+<br/>
 ![](https://user-images.githubusercontent.com/7261408/100502208-d3a3ed80-31a6-11eb-913c-0ee947d935e5.png)
