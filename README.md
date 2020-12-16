@@ -12,7 +12,7 @@
 
 - [集群模式部署指南](https://github.com/mingdaocom/private-deployment/wiki/%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97)
 
-- [Kubernetes 部署指南](https://github.com/mingdaocom/private-deployment/wiki/Kubernetes)
+- [Kubernetes 部署指南](https://github.com/mingdaocom/private-deployment/wiki/Kubernetes-%E9%83%A8%E7%BD%B2%E4%BB%8B%E7%BB%8D)
 
 ## 产品简介
 
