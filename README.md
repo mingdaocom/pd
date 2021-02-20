@@ -8,11 +8,11 @@
 
 ## 快速体验
 
-- [单机模式快速安装](https://docs.pd.mingdao.com/docker-compose-standalone-quickstart.html)
+- [单机模式快速安装](https://docs.pd.mingdao.com/deployment/docker-compose/standalone/quickstart.html)
 
-- [集群模式部署指南](https://docs.pd.mingdao.com/docker-compose-cluster-guide.html)
+- [集群模式部署指南](https://docs.pd.mingdao.com/deployment/docker-compose/cluster/guide.html)
 
-- [Kubernetes 部署指南](https://docs.pd.mingdao.com/kubernetes.html)
+- [Kubernetes 部署指南](https://docs.pd.mingdao.com/deployment/kubernetes/)
 
 ## 产品简介
 
