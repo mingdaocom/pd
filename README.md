@@ -16,8 +16,6 @@
 
 ## 产品简介
 
-更多详细使用介绍请查看明道云 [帮助中心](http://support.mingdao.com/)
-
 ![](https://user-images.githubusercontent.com/7261408/100502057-ca1a8580-31a6-11eb-97b6-7edbb9e495cf.png)
 <br/><br/>
 ![](https://user-images.githubusercontent.com/7261408/100502096-cd157600-31a6-11eb-870f-b429a002e658.png)
