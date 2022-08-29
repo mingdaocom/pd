@@ -11,7 +11,7 @@
 
 ## 快速体验
 
-- [单机模式快速安装](https://docs.pd.mingdao.com/deployment/docker-compose/standalone/quickstart.html)
+- [快速安装](https://docs.pd.mingdao.com/deployment/docker-compose/standalone/quickstart.html)
 
 ## 产品简介
 
