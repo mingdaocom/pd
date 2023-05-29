@@ -18,8 +18,7 @@
 
 # 联系我们
 
-- 【推荐】零代码社区 http://bbs.mingdao.net (几乎每小时都有用户提问和回答，大多数问题都能够被得到解答）
--  在Github提交Issue
+- 零代码社区 http://bbs.mingdao.net (几乎每小时都有用户提问和回答，大多数问题都能够被得到解答）
 
 # 许可证
 [Apache 2.0 License.](/LICENSE)
