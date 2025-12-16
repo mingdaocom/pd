@@ -10,11 +10,11 @@
 
 # 快速体验
 
-- [快速安装](https://docs.pd.mingdao.com/deployment/docker-compose/standalone/quickstart.html)
+- [快速安装](https://docs-pd.mingdao.com/deployment/docker-compose/standalone/quickstart.html)
 
 # 文档
 
-- [文档中心](https://docs.pd.mingdao.com)
+- [文档中心](https://docs-pd.mingdao.com)
 
 # 联系我们
 
